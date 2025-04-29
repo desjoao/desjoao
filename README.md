@@ -1,12 +1,11 @@
-## Olá, mundo!
+## Sobre mim
 
 - Atualmente estou cursando ciência da computação pela Universidade do Estado do Rio de Janeiro (UERJ). 
 - Possuo grau de bacharel em Ciências Sociais pela Universidade Federal do Rio de Janeiro (UFRJ).
 - Trabalho com desenvolvimento de RPA's no BNDES, para isso utilizando Python e suas dependências como principal ferramena.
+- Gosto de me aventurar pela fotografia desde minha adolescência, ultimamente tendo me interessado mais pela fotografia analógica.
 
-<center>
 <img src='img/imagem_readme.jpg' height= '400' width='640'></img>
-</center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desjoao&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
