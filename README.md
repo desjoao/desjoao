@@ -4,7 +4,7 @@
 - Possuo grau de bacharel em Ciências Sociais pela Universidade Federal do Rio de Janeiro (UFRJ).
 - Trabalho com desenvolvimento de RPA's no BNDES, para isso utilizando Python e suas dependências como principal ferramena.
 
-<p stule="text-align:center;">
+<p style="text-align:center;">
 <img src='img/imagem_readme.jpg' height= '400' width='640'></img>
 </p>
 
