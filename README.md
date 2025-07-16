@@ -7,6 +7,6 @@
 
 <img src='img/imagem_readme.jpg' height= '400' width='640'></img>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desjoao&show_icons=true&theme=dark&layout=compact)
 
 [![desjoao's GitHub stats](https://github-readme-stats.vercel.app/api?username=desjoao&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
