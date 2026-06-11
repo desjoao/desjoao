@@ -1,11 +1,11 @@
 ## About Me
 
- - I'm an infosec intern at Mongeral Aegon Group (MAG) and a computer science student at UERJ (State University of Rio de Janeiro).
+ - I'm a computer science student at UERJ (State University of Rio de Janeiro).
  
- - Previously, I've worked as a RPA developer, where I've gained python and devops expertice.
+ - Previously, I've completed internships in RPA Development and Information Security.
  
- - I'm interested in cybersecurity, machine learning, deep learning and process automation.
+ - I'm interested in cybersecurity, machine learning, deep learning and process automation and optimization.
  
- - I have a degree in Social Sciences from UFRJ (Federal University of Rio de Janeiro), which has given me analytical and research skills that I believe are crucial for developing optimized technology products and analyzing information systems today.
+ - I have a degree in Social Sciences from UFRJ (Federal University of Rio de Janeiro), which has given me analytical and research skills that I believe are crucial for developing optimized technology products and analyzing modern information systems.
 
- - I can understand and speak portuguese, french and english, but I'm willing to connect with anyone around the world!
+ - I can understand and speak Portuguese, French and English, and I'm happy to connect with people from all around the world!
